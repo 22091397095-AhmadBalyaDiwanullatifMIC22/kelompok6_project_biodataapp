@@ -88,7 +88,7 @@ class _MenuUtamaState extends State<MenuUtama> {
       ),
       body: Container(
         child: Center(
-          child: Text("Welcome"),
+          child: Text("Selamat Datang!"),
         ),
       ),
     );
